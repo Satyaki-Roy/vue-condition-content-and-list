@@ -1,0 +1,22 @@
+{
+  "name": "vue-conditional-content-and-list",
+  "version": "1.0.0",
+  "description": "Rendering Conditional Content & Lists",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyaki-Roy/vue-condition-content-and-list.git"
+  },
+  "author": "Satyaki Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satyaki-Roy/vue-condition-content-and-list/issues"
+  },
+  "homepage": "https://github.com/Satyaki-Roy/vue-condition-content-and-list#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
